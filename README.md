@@ -13,8 +13,7 @@
 
 ./LHF.py
 
-```
-python
+```python
 [+]  Checking permissions
 [-]  Rockyou wordlist is missing trying to decompress...
 [+]  Rockyou wordlist is decompressed!
@@ -24,8 +23,7 @@ python
 ## A "results" folder will be created after inputting the target ip. This folder can be found in the LHF directory. 
 
 Example:
-```
-bash
+```bash
 cd /opt/LHF/results
 ```
 ## Highly, reccomended you clone this into your /opt folder in Kali until I fix the code...unless you feel like changing the code around to whatever directory you have it in. This is low priority at the moment. 
